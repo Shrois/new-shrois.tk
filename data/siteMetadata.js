@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'tr-tr',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://shrois.tk',
-  siteRepo: 'https://github.com/shrois/shrois.tk',
+  siteRepo: 'https://github.com/shrois/new-shrois.tk',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/profil.png',
   socialBanner: '/static/images/twitter-card.png',
