@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Mustafa Babayev</title>
+      <link>https://shrois.tk/blog</link>
+      <description>Embacy Inc Owner</description>
+      <language>tr-tr</language>
+      <managingEditor>iamshrois@gmail.com (Mustafa Babayev)</managingEditor>
+      <webMaster>iamshrois@gmail.com (Mustafa Babayev)</webMaster>
+      <lastBuildDate>Sun, 18 Sep 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shrois.tk/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shrois.tk/blog/create-and-publish-your-own-react-component-library-with-typescript-storybook-and-tailwind</guid>
+    <title>Create and publish your own React component library with Storybook, TypeScript, and Tailwind</title>
+    <link>https://shrois.tk/blog/create-and-publish-your-own-react-component-library-with-typescript-storybook-and-tailwind</link>
+    <description>A guide on how to create your own custom React component library with Storybook, TypeScript, and Tailwind, and publish them to npm.</description>
+    <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>ReactJS</category><category>Library</category><category>Design Systems</category><category>TypeScript</category><category>Tailwind</category><category>NPM</category><category>Storybook</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/how-to-merge-a-repository-into-nx</guid>
+    <title>How to merge a git repository into Nx</title>
+    <link>https://shrois.tk/blog/how-to-merge-a-repository-into-nx</link>
+    <description>A guide on how to merge any existing app or library into a Nx monorepo.</description>
+    <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>Git</category><category>Monorepo</category><category>Nx</category><category>Workspaces</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/how-to-share-assets-to-multiple-appslibraries-in-nx</guid>
+    <title>How to share assets to multiple apps/libraries in Nx</title>
+    <link>https://shrois.tk/blog/how-to-share-assets-to-multiple-appslibraries-in-nx</link>
+    <description>A guide on how to share assets to all your apps/libraries in a Nx workspace</description>
+    <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>Nx</category><category>Workspaces</category><category>Monorepo</category><category>Builds</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/javascript-promises-async-await</guid>
+    <title>JavaScript Promise and Async/Await</title>
+    <link>https://shrois.tk/blog/javascript-promises-async-await</link>
+    <description>A short visual guide on what a Promise is in JavaScript, and how to avoid call back hell.</description>
+    <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>JavaScript</category><category>ReactJs</category><category>Snippets</category><category>Promises</category><category>Async/Await</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/why-does-react-need-keys</guid>
+    <title>Why does React need keys?</title>
+    <link>https://shrois.tk/blog/why-does-react-need-keys</link>
+    <description>This article will show you what is the purpose if the “key” prop in React and some best practices around it.</description>
+    <pubDate>Sun, 31 Jul 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>ReactJs</category><category>Snippets</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/snippets/redux-toolkit-passing-an-argument-to-selector</guid>
+    <title>Passing an argument to a selector in Redux toolkit</title>
+    <link>https://shrois.tk/blog/snippets/redux-toolkit-passing-an-argument-to-selector</link>
+    <description>A short guide on how to pass arguments to a selector in Redux toolkit.</description>
+    <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>Redux</category><category>Redux Toolkit</category><category>Snippets</category><category>TypeScript</category>
+  </item>
+
+  <item>
+    <guid>https://shrois.tk/blog/snippets/typing-usestate</guid>
+    <title>How to type the setState function from the useState hook</title>
+    <link>https://shrois.tk/blog/snippets/typing-usestate</link>
+    <description>A deep dive into how to properly type a setState function from the useState hook.</description>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>ReactJS</category><category>TypeScript</category><category>Snippets</category>
+  </item>
+
+    </channel>
+  </rss>

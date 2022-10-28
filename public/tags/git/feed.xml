@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Mustafa Babayev</title>
+      <link>https://shrois.tk/blog</link>
+      <description>Embacy Inc Owner</description>
+      <language>tr-tr</language>
+      <managingEditor>iamshrois@gmail.com (Mustafa Babayev)</managingEditor>
+      <webMaster>iamshrois@gmail.com (Mustafa Babayev)</webMaster>
+      <lastBuildDate>Wed, 18 May 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shrois.tk/tags/git/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shrois.tk/blog/how-to-merge-a-repository-into-nx</guid>
+    <title>How to merge a git repository into Nx</title>
+    <link>https://shrois.tk/blog/how-to-merge-a-repository-into-nx</link>
+    <description>A guide on how to merge any existing app or library into a Nx monorepo.</description>
+    <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
+    <author>iamshrois@gmail.com (Mustafa Babayev)</author>
+    <category>Git</category><category>Monorepo</category><category>Nx</category><category>Workspaces</category>
+  </item>
+
+    </channel>
+  </rss>

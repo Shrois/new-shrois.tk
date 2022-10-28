@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://shrois.tk/tags/asyncawait</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/design-systems</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/git</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/javascript</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/library</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/monorepo</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/npm</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/nx</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/promises</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/reactjs</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/snippets</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/storybook</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/tailwind</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/typescript</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/tags/workspaces</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shrois.tk/blog/create-and-publish-your-own-react-component-library-with-typescript-storybook-and-tailwind</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/blog/how-to-merge-a-repository-into-nx</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shrois.tk/blog/how-to-share-assets-to-multiple-appslibraries-in-nx</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/blog/javascript-promises-async-await</loc>
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/blog/why-does-react-need-keys</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shrois.tk/blog/snippets/redux-toolkit-passing-an-argument-to-selector</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://shrois.tk/blog/snippets/typing-usestate</loc>
+  </url>
+</urlset>
