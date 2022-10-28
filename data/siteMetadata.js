@@ -28,6 +28,7 @@ const siteMetadata = {
       mapping: 'pathname',
       reactions: '1',
       metadata: '0',
+      langtr: 'tr',
       theme: 'dark',
       darkTheme: 'transparent_dark',
       themeURL: '',

@@ -23,6 +23,7 @@ export default function Giscus() {
     script.setAttribute('data-mapping', 'title')
     script.setAttribute('data-reactions-enabled', siteMetadata.comment.giscusConfig.reactions)
     script.setAttribute('data-emit-metadata', siteMetadata.comment.giscusConfig.metadata)
+    script.setAttribute('data-lang', siteMetadata.comment.giscusConfig.langtr)
     script.setAttribute('data-theme', commentsTheme)
     script.setAttribute('crossOrigin', 'anonymous')
     script.async = true
