@@ -21,10 +21,10 @@ const siteMetadata = {
   comment: {
     provider: 'giscus',
     giscusConfig: {
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO || '',
-      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID || '',
-      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY || '',
-      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID || '',
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO || 'Shrois/new-shrois.tk',
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID || 'R_kgDOIU10YQ',
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY || 'Q&A',
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID || 'DIC_kwDOIU10Yc4CSPlJ',
       mapping: 'pathname',
       reactions: '1',
       metadata: '0',
