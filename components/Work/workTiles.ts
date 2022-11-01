@@ -10,8 +10,8 @@ export type WorkTile = {
 
 export const workTiles: WorkTile[] = [
   {
-    description: `Önemli İşlerim`,
-    title: `Embacy Inc`,
+    description: `VOL 1`,
+    title: `Yakında Sizlerle`,
     image: {
       src: '/static/images/aphex-apps.webp',
       width: 600,
@@ -19,8 +19,8 @@ export const workTiles: WorkTile[] = [
     },
   },
   {
-    description: 'Oyun Sunucusu',
-    title: 'Hyrne Network',
+    description: 'VOL 2',
+    title: 'Yakında Sizlerle',
     image: {
       src: '/static/images/field-app.webp',
       width: 600,
